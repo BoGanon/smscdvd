@@ -2,7 +2,7 @@ EE_LIB_DIR = lib
 EE_INC_DIR = include
 EE_SRC_DIR = src
 
-EE_LIB = $(EE_LIB_DIR)/libcdvd.a
+EE_LIB = $(EE_LIB_DIR)/libSMSCDVD.a
 EE_INCS = -I./include
 EE_OBJS = $(EE_SRC_DIR)/SMS_CDDA.o $(EE_SRC_DIR)/SMS_CDVD.o
 EE_LIBS = -lc
