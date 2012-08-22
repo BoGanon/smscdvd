@@ -4,7 +4,7 @@
 # per package
 
 # Custom variables
-_PKGNAME="cross-ps2-smscdvd"
+_PKGNAME="ps2sdk-ports-smscdvd"
 _GITROOT=https://github.com/ragnarok2040/smscdvd.git
 _GITNAME=smscdvd
 _GITBRANCH=master
